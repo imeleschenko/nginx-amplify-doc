@@ -39,7 +39,7 @@ You can use NGINX Amplify to do the following:
 
  * Visualize and identify NGINX performance bottlenecks, overloaded servers, or potential DDoS attacks
  * Improve and optimize NGINX performance with intelligent advice and recommendations
- * Get notified when something is wrong with application delivery
+ * Get notified when [something](#1-on-ubuntu/debian-use:) is wrong with application delivery
  * Plan web application capacity and performance
  * Keep track of the systems running NGINX
  
