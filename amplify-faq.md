@@ -1,7 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-[comment]: <BLA>
+[comment]: <BLA BLA>
 - [1. General](#1-general)
   - [1.1. What Is NGINX Amplify?](#11-what-is-nginx-amplify)
   - [1.3. Is the Traffic from the Agent to the SaaS Protected?](#13-is-the-traffic-from-the-agent-to-the-saas-protected)
