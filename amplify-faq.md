@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [1. General](#1-general)
-  - [Plan web application capacity and performance](#11-what-is-nginx-amplify)
+  - [Debian 7, 8](#11-what-is-nginx-amplify)
   - [1.3. Is the Traffic from the Agent to the SaaS Protected?](#13-is-the-traffic-from-the-agent-to-the-saas-protected)
   - [1.4. Is the Amplify Agent Code Publicly Available?](#14-is-the-amplify-agent-code-publicly-available)
   - [1.5. What is This Question About My Password When Installing the Agent?](#15-what-is-this-question-about-my-password-when-installing-the-agent)
